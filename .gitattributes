@@ -1,2 +1,0 @@
-covd-19_tw.csv filter=lfs diff=lfs merge=lfs -text
-covid-19_tweets.csv filter=lfs diff=lfs merge=lfs -text
